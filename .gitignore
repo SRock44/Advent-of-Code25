@@ -1,0 +1,7 @@
+# Ignore puzzle input files
+**/input.txt
+input.txt
+
+# Ignore any other input files
+**/*input*.txt
+
