@@ -14,4 +14,4 @@ This repository contains my solutions for [Advent of Code 2025](https://adventof
 - [Day 8](./day8/)
 - [Day 9](./day9/)
 - [Day 10](./day10/)
-
+- [Day 11](./day11/)
