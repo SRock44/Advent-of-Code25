@@ -1,6 +1,7 @@
 # Advent of Code 2025
 
 This repository contains my solutions for [Advent of Code 2025](https://adventofcode.com/2025).
+All days have been completed, in Python!
 
 ## Solutions
 
@@ -15,3 +16,5 @@ This repository contains my solutions for [Advent of Code 2025](https://adventof
 - [Day 9](./day9/)
 - [Day 10](./day10/)
 - [Day 11](./day11/)
+- [Day 12](./day12/)
+
